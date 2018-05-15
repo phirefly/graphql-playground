@@ -1,0 +1,22 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "Playing around with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phirefly/graphql-playground.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Raphael Villas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phirefly/graphql-playground/issues"
+  },
+  "homepage": "https://github.com/phirefly/graphql-playground#readme"
+}
